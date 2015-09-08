@@ -1,4 +1,5 @@
 'use strict';
+// var Dog = require("../lib/Dog");
 
 describe('Dog', function() {
   var dog;
